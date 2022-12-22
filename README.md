@@ -1,3 +1,3 @@
 # the-lord-of-the-rings
 
-visite o site https://the-lord-of-the-rings-psi.vercel.app/
+visite o site: https://the-lord-of-the-rings-jts.vercel.app/
